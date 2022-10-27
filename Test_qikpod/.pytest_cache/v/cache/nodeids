@@ -1,0 +1,23 @@
+[
+  "test_portal.py::test_add_location",
+  "test_portal.py::test_add_user",
+  "test_portal.py::test_create_user",
+  "test_portal.py::test_dashboard",
+  "test_portal.py::test_delete_location",
+  "test_portal.py::test_delete_pod",
+  "test_portal.py::test_delete_user",
+  "test_portal.py::test_edit_pod",
+  "test_portal.py::test_edit_user_detail",
+  "test_portal.py::test_edit_user_location",
+  "test_portal.py::test_get_pod_details",
+  "test_portal.py::test_location",
+  "test_portal.py::test_logout",
+  "test_portal.py::test_logs",
+  "test_portal.py::test_pods",
+  "test_portal.py::test_register_pod",
+  "test_portal.py::test_reservation",
+  "test_portal.py::test_support",
+  "test_portal.py::test_user_detail",
+  "test_portal.py::test_users",
+  "test_portal.py::test_valid_sign"
+]

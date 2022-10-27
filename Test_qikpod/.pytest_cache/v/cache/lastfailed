@@ -1,0 +1,22 @@
+{
+  "test_portal.py::test_dashboard": true,
+  "test_portal.py::test_add_location": true,
+  "test_portal.py::test_create_user": true,
+  "test_portal.py::test_edit_user_location": true,
+  "test_portal.py::test_delete_location": true,
+  "test_portal.py::test_pods": true,
+  "test_portal.py::test_register_pod": true,
+  "test_portal.py::test_edit_pod": true,
+  "test_portal.py::test_get_pod_details": true,
+  "test_portal.py::test_delete_pod": true,
+  "test_portal.py::test_users": true,
+  "test_portal.py::test_add_user": true,
+  "test_portal.py::test_edit_user_detail": true,
+  "test_portal.py::test_user_detail": true,
+  "test_portal.py::test_delete_user": true,
+  "test_portal.py::test_reservation": true,
+  "test_portal.py::test_support": true,
+  "test_portal.py::test_logs": true,
+  "test_portal.py::test_logout": true,
+  "test_portal.py::test_location": true
+}
